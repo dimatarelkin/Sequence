@@ -1,4 +1,6 @@
-# Sequence
+# Sequence [JumpToClassAndCategory](https://github.com/dimatarelkin/Sequence/blob/master/SequenceTask/SequenceTask/SequenceFinder_Class/SequenceFinder.m)
+
+[JumpToResult](https://github.com/dimatarelkin/Sequence/blob/master/SequenceTask/SequenceTask/AppDelegate.m)
 
 <b>Description</b></br>
 Given an unsorted array of integers, find the length of the longest consecutive elements sequence.</br>
